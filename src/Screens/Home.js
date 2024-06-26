@@ -6,7 +6,7 @@ import Grid from '../Components/Grid';
 export default function Home(){
     return( 
         <>
-        <div><Navbar/></div>
+        <div><Navbar title="SwiggyLatur"/></div>
         <div><Carousel/></div>
         <div><Grid/></div>
         <div><Footer/></div>
