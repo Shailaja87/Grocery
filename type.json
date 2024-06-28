@@ -1,0 +1,18 @@
+[
+
+    {
+        "type": "dairy"
+    },
+    {
+        "type": "fruit"
+    },
+    {
+        "type": "vegetable"
+    },{
+        "type": "meat"
+    },{
+        "type": "bakery"
+    },{
+        "type": "vegan"
+    }
+]
